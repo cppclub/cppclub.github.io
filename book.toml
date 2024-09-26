@@ -1,0 +1,6 @@
+[book]
+authors = ["cppclub"]
+language = "en"
+multilingual = false
+src = "src"
+title = "cppclub"
